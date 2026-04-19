@@ -120,7 +120,7 @@ The project uses **Matplotlib** and **Seaborn** to visualize:
 1. Clone the repository
 
 bash
-git clone https://github.com/amirclear/concrete-strength-prediction.git
+git clone Concrete-Strength-Prediction-Quera-Challenge-.git
 cd concrete-strength-prediction
 
 2. Install dependencies
